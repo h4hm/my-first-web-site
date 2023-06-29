@@ -3,7 +3,7 @@ body {
 }
 
 a {
-  color: black;
+  color: blue;
 }
 
 h1 {
@@ -27,7 +27,7 @@ h1 {
 }
 
 .article {
-  padding-left: 25px;
+  padding: 5px 20px;
 }
 
 /* screen width < 600px */
